@@ -1,0 +1,11 @@
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld.deps.json
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld.runtimeconfig.json
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld.runtimeconfig.dev.json
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld.dll
+/Users/jeffreysojack/AWholeNewWorld/bin/Debug/netcoreapp3.1/AWholeNewWorld.pdb
+/Users/jeffreysojack/AWholeNewWorld/obj/Debug/netcoreapp3.1/AWholeNewWorld.csprojAssemblyReference.cache
+/Users/jeffreysojack/AWholeNewWorld/obj/Debug/netcoreapp3.1/AWholeNewWorld.AssemblyInfoInputs.cache
+/Users/jeffreysojack/AWholeNewWorld/obj/Debug/netcoreapp3.1/AWholeNewWorld.AssemblyInfo.cs
+/Users/jeffreysojack/AWholeNewWorld/obj/Debug/netcoreapp3.1/AWholeNewWorld.dll
+/Users/jeffreysojack/AWholeNewWorld/obj/Debug/netcoreapp3.1/AWholeNewWorld.pdb
